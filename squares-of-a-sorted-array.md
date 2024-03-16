@@ -3,6 +3,9 @@
 - [squares-of-a-sorted-array] - leetcode
 
 ```csharp
+Time: O(n)
+Mem:  O(n)
+
 public int[] SortedSquares(int[] nums) {
         var res = new int[nums.Length];
         int left = 0;

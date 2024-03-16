@@ -3,6 +3,9 @@
 - [valid-palindrome-ii] - leetcode
 
 ```csharp
+Time: O(n)
+Mem:  O(n)
+
 public bool ValidPalindrome(string s) {
         
         var res = s.ToCharArray();
