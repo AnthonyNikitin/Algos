@@ -1,4 +1,4 @@
-## Squares of a sorted array
+## Maximum Product of Three Numbers
 
 - [maximum-product-of-three-numbers] - leetcode
 
