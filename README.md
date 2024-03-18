@@ -4,6 +4,7 @@
 * [680. Valid Palindrome II](Valid_Palindrome.md)
 * [977. Squares of a Sorted Array](squares_of_a_sorted_array.md)
 * [628. Maximum Product of Three Numbers](maximum_product_of_three_numbers.md)
+* [101. Symmetric Tree](symmetric_tree.md)
 
 ## Medium
 
